@@ -1,29 +1,4 @@
-  <div align="center">
-  <div>
-    <img  src="https://i.hizliresim.com/998zxyv.png">
-  </div>
-  </div> 
 
-</p>
-<p align="center">
-    <img src="https://img.shields.io/github/stars/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/forks/cankatx/stealer?color=%23000000"> 
-    <br>
-    <img src="https://img.shields.io/github/languages/top/cankatx/stealer?color=%23000000">
-    <img src="https://img.shields.io/github/last-commit/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <br>
-    <img src="https://img.shields.io/github/issues/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <br>
-</p>
- 
-<p align="center">
-  Telegram: https://t.me/cstealerr
-  <br>
-  🔱 Join Telegram for support and contact 🔱
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-<br>
     
 ## Features
 
@@ -94,11 +69,12 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/can-kat/cstealer/archive/refs/heads/main.zip)
+1. Download source code zip
 2. Extract zip
-3. First install reqiured packages by double clicking `install.bat` file
-4. Run the builder by double clicking the `builder.pyw` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `cstealer.exe`
+3. First install reqiured packages for the script by double clicking `install.bat` file
+4. After install reqiured packages for the tool by double clicking `install2.exe` file
+5. Run the builder by double clicking the `builder.pyw` file
+6. Follow instructions in builder and your exe will be found in the `dist` folder under the name `tstealer.exe`
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/can-kat/cstealer/main/CStealer_assets/img/ss1.png"></img>
